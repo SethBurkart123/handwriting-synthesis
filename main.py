@@ -19,7 +19,7 @@ Never gonna say goodbye
 Never gonna tell a lie and hurt you"""
 
 lines = [
-    "Father time, I'm running late",
+    "Hi there!!!",
     "I'm winding down, I'm growing tired",
     "Seconds drift into the night",
     "The clock just ticks till my time expires",
@@ -35,7 +35,7 @@ if __name__ == '__main__':
     stroke_widths = [1, 2, 1, 2]
 
     hand.write(
-        filename='img/usage_demo.svg',
+        filename='img/usage_demo_2.svg',
         lines=lines,
         biases=biases,
         styles=styles,
@@ -44,7 +44,7 @@ if __name__ == '__main__':
     )
 
     # demo number 1 - fixed bias, fixed style
-    lines = all_star.split("\n")
+    """ lines = all_star.split("\n")
     biases = [.75 for i in lines]
     styles = [12 for i in lines]
 
@@ -78,3 +78,4 @@ if __name__ == '__main__':
         biases=biases,
         styles=styles,
     )
+ """

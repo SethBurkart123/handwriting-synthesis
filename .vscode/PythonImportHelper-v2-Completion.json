@@ -1,0 +1,986 @@
+[
+    {
+        "label": "copy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "copy",
+        "description": "copy",
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "namedtuple",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "interp1d",
+        "importPath": "scipy.interpolate",
+        "description": "scipy.interpolate",
+        "isExtraImport": true,
+        "detail": "scipy.interpolate",
+        "documentation": {}
+    },
+    {
+        "label": "savgol_filter",
+        "importPath": "scipy.signal",
+        "description": "scipy.signal",
+        "isExtraImport": true,
+        "detail": "scipy.signal",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "drawing",
+        "importPath": "handwriting_synthesis",
+        "description": "handwriting_synthesis",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis",
+        "documentation": {}
+    },
+    {
+        "label": "drawing",
+        "importPath": "handwriting_synthesis",
+        "description": "handwriting_synthesis",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis",
+        "documentation": {}
+    },
+    {
+        "label": "drawing",
+        "importPath": "handwriting_synthesis",
+        "description": "handwriting_synthesis",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis",
+        "documentation": {}
+    },
+    {
+        "label": "drawing",
+        "importPath": "handwriting_synthesis",
+        "description": "handwriting_synthesis",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis",
+        "documentation": {}
+    },
+    {
+        "label": "drawing",
+        "importPath": "handwriting_synthesis",
+        "description": "handwriting_synthesis",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis",
+        "documentation": {}
+    },
+    {
+        "label": "Hand",
+        "importPath": "handwriting_synthesis",
+        "description": "handwriting_synthesis",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis",
+        "documentation": {}
+    },
+    {
+        "label": "prediction_path",
+        "importPath": "handwriting_synthesis.config",
+        "description": "handwriting_synthesis.config",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.config",
+        "documentation": {}
+    },
+    {
+        "label": "checkpoint_path",
+        "importPath": "handwriting_synthesis.config",
+        "description": "handwriting_synthesis.config",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.config",
+        "documentation": {}
+    },
+    {
+        "label": "style_path",
+        "importPath": "handwriting_synthesis.config",
+        "description": "handwriting_synthesis.config",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.config",
+        "documentation": {}
+    },
+    {
+        "label": "checkpoint_path",
+        "importPath": "handwriting_synthesis.config",
+        "description": "handwriting_synthesis.config",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.config",
+        "documentation": {}
+    },
+    {
+        "label": "prediction_path",
+        "importPath": "handwriting_synthesis.config",
+        "description": "handwriting_synthesis.config",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.config",
+        "documentation": {}
+    },
+    {
+        "label": "ascii_data_path",
+        "importPath": "handwriting_synthesis.config",
+        "description": "handwriting_synthesis.config",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.config",
+        "documentation": {}
+    },
+    {
+        "label": "data_path",
+        "importPath": "handwriting_synthesis.config",
+        "description": "handwriting_synthesis.config",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.config",
+        "documentation": {}
+    },
+    {
+        "label": "processed_data_path",
+        "importPath": "handwriting_synthesis.config",
+        "description": "handwriting_synthesis.config",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.config",
+        "documentation": {}
+    },
+    {
+        "label": "processed_data_path",
+        "importPath": "handwriting_synthesis.config",
+        "description": "handwriting_synthesis.config",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.config",
+        "documentation": {}
+    },
+    {
+        "label": "checkpoint_path",
+        "importPath": "handwriting_synthesis.config",
+        "description": "handwriting_synthesis.config",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.config",
+        "documentation": {}
+    },
+    {
+        "label": "prediction_path",
+        "importPath": "handwriting_synthesis.config",
+        "description": "handwriting_synthesis.config",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.config",
+        "documentation": {}
+    },
+    {
+        "label": "_draw",
+        "importPath": "handwriting_synthesis.hand._draw",
+        "description": "handwriting_synthesis.hand._draw",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.hand._draw",
+        "documentation": {}
+    },
+    {
+        "label": "RNN",
+        "importPath": "handwriting_synthesis.rnn",
+        "description": "handwriting_synthesis.rnn",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.rnn",
+        "documentation": {}
+    },
+    {
+        "label": "LSTMAttentionCell",
+        "importPath": "handwriting_synthesis.rnn",
+        "description": "handwriting_synthesis.rnn",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.rnn",
+        "documentation": {}
+    },
+    {
+        "label": "RNN",
+        "importPath": "handwriting_synthesis.rnn",
+        "description": "handwriting_synthesis.rnn",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.rnn",
+        "documentation": {}
+    },
+    {
+        "label": "svgwrite",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "svgwrite",
+        "description": "svgwrite",
+        "detail": "svgwrite",
+        "documentation": {}
+    },
+    {
+        "label": "tensorflow",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tensorflow",
+        "description": "tensorflow",
+        "detail": "tensorflow",
+        "documentation": {}
+    },
+    {
+        "label": "tensorflow.compat.v1",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tensorflow.compat.v1",
+        "description": "tensorflow.compat.v1",
+        "detail": "tensorflow.compat.v1",
+        "documentation": {}
+    },
+    {
+        "label": "tensorflow.compat.v1.distributions",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tensorflow.compat.v1.distributions",
+        "description": "tensorflow.compat.v1.distributions",
+        "detail": "tensorflow.compat.v1.distributions",
+        "documentation": {}
+    },
+    {
+        "label": "tensorflow_probability",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tensorflow_probability",
+        "description": "tensorflow_probability",
+        "detail": "tensorflow_probability",
+        "documentation": {}
+    },
+    {
+        "label": "dense_layer",
+        "importPath": "handwriting_synthesis.tf.utils",
+        "description": "handwriting_synthesis.tf.utils",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.tf.utils",
+        "documentation": {}
+    },
+    {
+        "label": "shape",
+        "importPath": "handwriting_synthesis.tf.utils",
+        "description": "handwriting_synthesis.tf.utils",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.tf.utils",
+        "documentation": {}
+    },
+    {
+        "label": "time_distributed_dense_layer",
+        "importPath": "handwriting_synthesis.tf.utils",
+        "description": "handwriting_synthesis.tf.utils",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.tf.utils",
+        "documentation": {}
+    },
+    {
+        "label": "shape",
+        "importPath": "handwriting_synthesis.tf.utils",
+        "description": "handwriting_synthesis.tf.utils",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.tf.utils",
+        "documentation": {}
+    },
+    {
+        "label": "rnn_free_run",
+        "importPath": "handwriting_synthesis.rnn.operations",
+        "description": "handwriting_synthesis.rnn.operations",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.rnn.operations",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "handwriting_synthesis.tf",
+        "description": "handwriting_synthesis.tf",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.tf",
+        "documentation": {}
+    },
+    {
+        "label": "constant_op",
+        "importPath": "tensorflow.python.framework",
+        "description": "tensorflow.python.framework",
+        "isExtraImport": true,
+        "detail": "tensorflow.python.framework",
+        "documentation": {}
+    },
+    {
+        "label": "dtypes",
+        "importPath": "tensorflow.python.framework",
+        "description": "tensorflow.python.framework",
+        "isExtraImport": true,
+        "detail": "tensorflow.python.framework",
+        "documentation": {}
+    },
+    {
+        "label": "ops",
+        "importPath": "tensorflow.python.framework",
+        "description": "tensorflow.python.framework",
+        "isExtraImport": true,
+        "detail": "tensorflow.python.framework",
+        "documentation": {}
+    },
+    {
+        "label": "tensor_shape",
+        "importPath": "tensorflow.python.framework",
+        "description": "tensorflow.python.framework",
+        "isExtraImport": true,
+        "detail": "tensorflow.python.framework",
+        "documentation": {}
+    },
+    {
+        "label": "array_ops",
+        "importPath": "tensorflow.python.ops",
+        "description": "tensorflow.python.ops",
+        "isExtraImport": true,
+        "detail": "tensorflow.python.ops",
+        "documentation": {}
+    },
+    {
+        "label": "control_flow_ops",
+        "importPath": "tensorflow.python.ops",
+        "description": "tensorflow.python.ops",
+        "isExtraImport": true,
+        "detail": "tensorflow.python.ops",
+        "documentation": {}
+    },
+    {
+        "label": "math_ops",
+        "importPath": "tensorflow.python.ops",
+        "description": "tensorflow.python.ops",
+        "isExtraImport": true,
+        "detail": "tensorflow.python.ops",
+        "documentation": {}
+    },
+    {
+        "label": "tensor_array_ops",
+        "importPath": "tensorflow.python.ops",
+        "description": "tensorflow.python.ops",
+        "isExtraImport": true,
+        "detail": "tensorflow.python.ops",
+        "documentation": {}
+    },
+    {
+        "label": "variable_scope",
+        "importPath": "tensorflow.python.ops",
+        "description": "tensorflow.python.ops",
+        "isExtraImport": true,
+        "detail": "tensorflow.python.ops",
+        "documentation": {}
+    },
+    {
+        "label": "_maybe_tensor_shape_from_tensor",
+        "importPath": "tensorflow.python.ops.rnn",
+        "description": "tensorflow.python.ops.rnn",
+        "isExtraImport": true,
+        "detail": "tensorflow.python.ops.rnn",
+        "documentation": {}
+    },
+    {
+        "label": "_concat",
+        "importPath": "tensorflow.python.ops.rnn_cell_impl",
+        "description": "tensorflow.python.ops.rnn_cell_impl",
+        "isExtraImport": true,
+        "detail": "tensorflow.python.ops.rnn_cell_impl",
+        "documentation": {}
+    },
+    {
+        "label": "assert_like_rnncell",
+        "importPath": "tensorflow.python.ops.rnn_cell_impl",
+        "description": "tensorflow.python.ops.rnn_cell_impl",
+        "isExtraImport": true,
+        "detail": "tensorflow.python.ops.rnn_cell_impl",
+        "documentation": {}
+    },
+    {
+        "label": "is_in_graph_mode",
+        "importPath": "tensorflow.python.util",
+        "description": "tensorflow.python.util",
+        "isExtraImport": true,
+        "detail": "tensorflow.python.util",
+        "documentation": {}
+    },
+    {
+        "label": "nest",
+        "importPath": "tensorflow.python.util",
+        "description": "tensorflow.python.util",
+        "isExtraImport": true,
+        "detail": "tensorflow.python.util",
+        "documentation": {}
+    },
+    {
+        "label": "pprint",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pprint",
+        "description": "pprint",
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "ElementTree",
+        "importPath": "xml.etree",
+        "description": "xml.etree",
+        "isExtraImport": true,
+        "detail": "xml.etree",
+        "documentation": {}
+    },
+    {
+        "label": "get_stroke_sequence",
+        "importPath": "handwriting_synthesis.training.preparation",
+        "description": "handwriting_synthesis.training.preparation",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.training.preparation",
+        "documentation": {}
+    },
+    {
+        "label": "collect_data",
+        "importPath": "handwriting_synthesis.training.preparation",
+        "description": "handwriting_synthesis.training.preparation",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.training.preparation",
+        "documentation": {}
+    },
+    {
+        "label": "DataFrame",
+        "importPath": "handwriting_synthesis.data_frame",
+        "description": "handwriting_synthesis.data_frame",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.data_frame",
+        "documentation": {}
+    },
+    {
+        "label": "batch_generator",
+        "importPath": "handwriting_synthesis.training.batch_generator",
+        "description": "handwriting_synthesis.training.batch_generator",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.training.batch_generator",
+        "documentation": {}
+    },
+    {
+        "label": "DataReader",
+        "importPath": "handwriting_synthesis.training",
+        "description": "handwriting_synthesis.training",
+        "isExtraImport": true,
+        "detail": "handwriting_synthesis.training",
+        "documentation": {}
+    },
+    {
+        "label": "DataFrame",
+        "kind": 6,
+        "importPath": "handwriting_synthesis.data_frame.DataFrame",
+        "description": "handwriting_synthesis.data_frame.DataFrame",
+        "peekOfCode": "class DataFrame(object):\n    \"\"\"Minimal pd.DataFrame analog for handling n-dimensional numpy matrices with additional\n    support for shuffling, batching, and train/test splitting.\n    Args:\n        columns: List of names corresponding to the matrices in data.\n        data: List of n-dimensional data matrices ordered in correspondence with columns.\n            All matrices must have the same leading dimension.  Data can also be fed a list of\n            instances of np.memmap, in which case RAM usage can be limited to the size of a\n            single batch.\n    \"\"\"",
+        "detail": "handwriting_synthesis.data_frame.DataFrame",
+        "documentation": {}
+    },
+    {
+        "label": "align",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.drawing.operations",
+        "description": "handwriting_synthesis.drawing.operations",
+        "peekOfCode": "def align(coords):\n    \"\"\"\n    corrects for global slant/offset in handwriting strokes\n    \"\"\"\n    coords = np.copy(coords)\n    x, y = coords[:, 0].reshape(-1, 1), coords[:, 1].reshape(-1, 1)\n    x = np.concatenate([np.ones([x.shape[0], 1]), x], axis=1)\n    offset, slope = np.linalg.inv(x.T.dot(x)).dot(x.T).dot(y).squeeze()\n    theta = np.arctan(slope)\n    rotation_matrix = np.array(",
+        "detail": "handwriting_synthesis.drawing.operations",
+        "documentation": {}
+    },
+    {
+        "label": "skew",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.drawing.operations",
+        "description": "handwriting_synthesis.drawing.operations",
+        "peekOfCode": "def skew(coords, degrees):\n    \"\"\"\n    skews strokes by given degrees\n    \"\"\"\n    coords = np.copy(coords)\n    theta = degrees * np.pi / 180\n    a = np.array([[np.cos(-theta), 0], [np.sin(-theta), 1]])\n    coords[:, :2] = np.dot(coords[:, :2], a)\n    return coords\ndef stretch(coords, x_factor, y_factor):",
+        "detail": "handwriting_synthesis.drawing.operations",
+        "documentation": {}
+    },
+    {
+        "label": "stretch",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.drawing.operations",
+        "description": "handwriting_synthesis.drawing.operations",
+        "peekOfCode": "def stretch(coords, x_factor, y_factor):\n    \"\"\"\n    stretches strokes along x and y-axis\n    \"\"\"\n    coords = np.copy(coords)\n    coords[:, :2] *= np.array([x_factor, y_factor])\n    return coords\ndef add_noise(coords, scale):\n    \"\"\"\n    adds gaussian noise to strokes",
+        "detail": "handwriting_synthesis.drawing.operations",
+        "documentation": {}
+    },
+    {
+        "label": "add_noise",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.drawing.operations",
+        "description": "handwriting_synthesis.drawing.operations",
+        "peekOfCode": "def add_noise(coords, scale):\n    \"\"\"\n    adds gaussian noise to strokes\n    \"\"\"\n    coords = np.copy(coords)\n    coords[1:, :2] += np.random.normal(loc=0.0, scale=scale, size=coords[1:, :2].shape)\n    return coords\ndef encode_ascii(ascii_string):\n    \"\"\"\n    encodes ascii string to array of ints",
+        "detail": "handwriting_synthesis.drawing.operations",
+        "documentation": {}
+    },
+    {
+        "label": "encode_ascii",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.drawing.operations",
+        "description": "handwriting_synthesis.drawing.operations",
+        "peekOfCode": "def encode_ascii(ascii_string):\n    \"\"\"\n    encodes ascii string to array of ints\n    \"\"\"\n    return np.array(list(map(lambda x: alpha_to_num[x], ascii_string)) + [0])\ndef denoise(coords):\n    \"\"\"\n    smoothing filter to mitigate some artifacts of the data collection\n    \"\"\"\n    coords = np.split(coords, np.where(coords[:, 2] == 1)[0] + 1, axis=0)",
+        "detail": "handwriting_synthesis.drawing.operations",
+        "documentation": {}
+    },
+    {
+        "label": "denoise",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.drawing.operations",
+        "description": "handwriting_synthesis.drawing.operations",
+        "peekOfCode": "def denoise(coords):\n    \"\"\"\n    smoothing filter to mitigate some artifacts of the data collection\n    \"\"\"\n    coords = np.split(coords, np.where(coords[:, 2] == 1)[0] + 1, axis=0)\n    new_coords = []\n    for stroke in coords:\n        if len(stroke) != 0:\n            x_new = savgol_filter(stroke[:, 0], 7, 3, mode='nearest')\n            y_new = savgol_filter(stroke[:, 1], 7, 3, mode='nearest')",
+        "detail": "handwriting_synthesis.drawing.operations",
+        "documentation": {}
+    },
+    {
+        "label": "interpolate",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.drawing.operations",
+        "description": "handwriting_synthesis.drawing.operations",
+        "peekOfCode": "def interpolate(coords, factor=2):\n    \"\"\"\n    interpolates strokes using cubic spline\n    \"\"\"\n    coords = np.split(coords, np.where(coords[:, 2] == 1)[0] + 1, axis=0)\n    new_coords = []\n    for stroke in coords:\n        if len(stroke) == 0:\n            continue\n        xy_coords = stroke[:, :2]",
+        "detail": "handwriting_synthesis.drawing.operations",
+        "documentation": {}
+    },
+    {
+        "label": "normalize",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.drawing.operations",
+        "description": "handwriting_synthesis.drawing.operations",
+        "peekOfCode": "def normalize(offsets):\n    \"\"\"\n    normalizes strokes to median unit norm\n    \"\"\"\n    offsets = np.copy(offsets)\n    offsets[:, :2] /= np.median(np.linalg.norm(offsets[:, :2], axis=1))\n    return offsets\ndef coords_to_offsets(coords):\n    \"\"\"\n    convert from coordinates to offsets",
+        "detail": "handwriting_synthesis.drawing.operations",
+        "documentation": {}
+    },
+    {
+        "label": "coords_to_offsets",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.drawing.operations",
+        "description": "handwriting_synthesis.drawing.operations",
+        "peekOfCode": "def coords_to_offsets(coords):\n    \"\"\"\n    convert from coordinates to offsets\n    \"\"\"\n    offsets = np.concatenate([coords[1:, :2] - coords[:-1, :2], coords[1:, 2:3]], axis=1)\n    offsets = np.concatenate([np.array([[0, 0, 1]]), offsets], axis=0)\n    return offsets\ndef offsets_to_coords(offsets):\n    \"\"\"\n    convert from offsets to coordinates",
+        "detail": "handwriting_synthesis.drawing.operations",
+        "documentation": {}
+    },
+    {
+        "label": "offsets_to_coords",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.drawing.operations",
+        "description": "handwriting_synthesis.drawing.operations",
+        "peekOfCode": "def offsets_to_coords(offsets):\n    \"\"\"\n    convert from offsets to coordinates\n    \"\"\"\n    return np.concatenate([np.cumsum(offsets[:, :2], axis=0), offsets[:, 2:3]], axis=1)\ndef draw(\n        offsets,\n        ascii_seq=None,\n        align_strokes=True,\n        denoise_strokes=True,",
+        "detail": "handwriting_synthesis.drawing.operations",
+        "documentation": {}
+    },
+    {
+        "label": "draw",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.drawing.operations",
+        "description": "handwriting_synthesis.drawing.operations",
+        "peekOfCode": "def draw(\n        offsets,\n        ascii_seq=None,\n        align_strokes=True,\n        denoise_strokes=True,\n        interpolation_factor=None,\n        save_file=None\n):\n    strokes = offsets_to_coords(offsets)\n    if denoise_strokes:",
+        "detail": "handwriting_synthesis.drawing.operations",
+        "documentation": {}
+    },
+    {
+        "label": "alphabet",
+        "kind": 5,
+        "importPath": "handwriting_synthesis.drawing.operations",
+        "description": "handwriting_synthesis.drawing.operations",
+        "peekOfCode": "alphabet = [\n    '\\x00', ' ', '!', '\"', '#', \"'\", '(', ')', ',', '-', '.',\n    '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', ':', ';',\n    '?', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K',\n    'L', 'M', 'N', 'O', 'P', 'R', 'S', 'T', 'U', 'V', 'W', 'Y',\n    'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',\n    'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x',\n    'y', 'z'\n]\nalphabet_ord = list(map(ord, alphabet))",
+        "detail": "handwriting_synthesis.drawing.operations",
+        "documentation": {}
+    },
+    {
+        "label": "alphabet_ord",
+        "kind": 5,
+        "importPath": "handwriting_synthesis.drawing.operations",
+        "description": "handwriting_synthesis.drawing.operations",
+        "peekOfCode": "alphabet_ord = list(map(ord, alphabet))\nalpha_to_num = defaultdict(int, list(map(reversed, enumerate(alphabet))))\nnum_to_alpha = dict(enumerate(alphabet_ord))\nMAX_STROKE_LEN = 1200\nMAX_CHAR_LEN = 75\ndef align(coords):\n    \"\"\"\n    corrects for global slant/offset in handwriting strokes\n    \"\"\"\n    coords = np.copy(coords)",
+        "detail": "handwriting_synthesis.drawing.operations",
+        "documentation": {}
+    },
+    {
+        "label": "alpha_to_num",
+        "kind": 5,
+        "importPath": "handwriting_synthesis.drawing.operations",
+        "description": "handwriting_synthesis.drawing.operations",
+        "peekOfCode": "alpha_to_num = defaultdict(int, list(map(reversed, enumerate(alphabet))))\nnum_to_alpha = dict(enumerate(alphabet_ord))\nMAX_STROKE_LEN = 1200\nMAX_CHAR_LEN = 75\ndef align(coords):\n    \"\"\"\n    corrects for global slant/offset in handwriting strokes\n    \"\"\"\n    coords = np.copy(coords)\n    x, y = coords[:, 0].reshape(-1, 1), coords[:, 1].reshape(-1, 1)",
+        "detail": "handwriting_synthesis.drawing.operations",
+        "documentation": {}
+    },
+    {
+        "label": "num_to_alpha",
+        "kind": 5,
+        "importPath": "handwriting_synthesis.drawing.operations",
+        "description": "handwriting_synthesis.drawing.operations",
+        "peekOfCode": "num_to_alpha = dict(enumerate(alphabet_ord))\nMAX_STROKE_LEN = 1200\nMAX_CHAR_LEN = 75\ndef align(coords):\n    \"\"\"\n    corrects for global slant/offset in handwriting strokes\n    \"\"\"\n    coords = np.copy(coords)\n    x, y = coords[:, 0].reshape(-1, 1), coords[:, 1].reshape(-1, 1)\n    x = np.concatenate([np.ones([x.shape[0], 1]), x], axis=1)",
+        "detail": "handwriting_synthesis.drawing.operations",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_STROKE_LEN",
+        "kind": 5,
+        "importPath": "handwriting_synthesis.drawing.operations",
+        "description": "handwriting_synthesis.drawing.operations",
+        "peekOfCode": "MAX_STROKE_LEN = 1200\nMAX_CHAR_LEN = 75\ndef align(coords):\n    \"\"\"\n    corrects for global slant/offset in handwriting strokes\n    \"\"\"\n    coords = np.copy(coords)\n    x, y = coords[:, 0].reshape(-1, 1), coords[:, 1].reshape(-1, 1)\n    x = np.concatenate([np.ones([x.shape[0], 1]), x], axis=1)\n    offset, slope = np.linalg.inv(x.T.dot(x)).dot(x.T).dot(y).squeeze()",
+        "detail": "handwriting_synthesis.drawing.operations",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_CHAR_LEN",
+        "kind": 5,
+        "importPath": "handwriting_synthesis.drawing.operations",
+        "description": "handwriting_synthesis.drawing.operations",
+        "peekOfCode": "MAX_CHAR_LEN = 75\ndef align(coords):\n    \"\"\"\n    corrects for global slant/offset in handwriting strokes\n    \"\"\"\n    coords = np.copy(coords)\n    x, y = coords[:, 0].reshape(-1, 1), coords[:, 1].reshape(-1, 1)\n    x = np.concatenate([np.ones([x.shape[0], 1]), x], axis=1)\n    offset, slope = np.linalg.inv(x.T.dot(x)).dot(x.T).dot(y).squeeze()\n    theta = np.arctan(slope)",
+        "detail": "handwriting_synthesis.drawing.operations",
+        "documentation": {}
+    },
+    {
+        "label": "Hand",
+        "kind": 6,
+        "importPath": "handwriting_synthesis.hand.Hand",
+        "description": "handwriting_synthesis.hand.Hand",
+        "peekOfCode": "class Hand(object):\n    def __init__(self):\n        os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'\n        self.nn = RNN(\n            log_dir='logs',\n            checkpoint_dir=checkpoint_path,\n            prediction_dir=prediction_path,\n            learning_rates=[.0001, .00005, .00002],\n            batch_sizes=[32, 64, 64],\n            patiences=[1500, 1000, 500],",
+        "detail": "handwriting_synthesis.hand.Hand",
+        "documentation": {}
+    },
+    {
+        "label": "LSTMAttentionCell",
+        "kind": 6,
+        "importPath": "handwriting_synthesis.rnn.LSTMAttentionCell",
+        "description": "handwriting_synthesis.rnn.LSTMAttentionCell",
+        "peekOfCode": "class LSTMAttentionCell(tfcompat.nn.rnn_cell.RNNCell):\n    def __init__(\n            self,\n            lstm_size,\n            num_attn_mixture_components,\n            attention_values,\n            attention_values_lengths,\n            num_output_mixture_components,\n            bias,\n            reuse=None,",
+        "detail": "handwriting_synthesis.rnn.LSTMAttentionCell",
+        "documentation": {}
+    },
+    {
+        "label": "LSTMAttentionCellState",
+        "kind": 5,
+        "importPath": "handwriting_synthesis.rnn.LSTMAttentionCell",
+        "description": "handwriting_synthesis.rnn.LSTMAttentionCell",
+        "peekOfCode": "LSTMAttentionCellState = namedtuple(\n    'LSTMAttentionCellState',\n    ['h1', 'c1', 'h2', 'c2', 'h3', 'c3', 'alpha', 'beta', 'kappa', 'w', 'phi']\n)\nclass LSTMAttentionCell(tfcompat.nn.rnn_cell.RNNCell):\n    def __init__(\n            self,\n            lstm_size,\n            num_attn_mixture_components,\n            attention_values,",
+        "detail": "handwriting_synthesis.rnn.LSTMAttentionCell",
+        "documentation": {}
+    },
+    {
+        "label": "RNN",
+        "kind": 6,
+        "importPath": "handwriting_synthesis.rnn.RNN",
+        "description": "handwriting_synthesis.rnn.RNN",
+        "peekOfCode": "class RNN(BaseModel):\n    def __init__(\n            self,\n            lstm_size,\n            output_mixture_components,\n            attention_mixture_components,\n            **kwargs\n    ):\n        self.x = None\n        self.y = None",
+        "detail": "handwriting_synthesis.rnn.RNN",
+        "documentation": {}
+    },
+    {
+        "label": "raw_rnn",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.rnn.operations",
+        "description": "handwriting_synthesis.rnn.operations",
+        "peekOfCode": "def raw_rnn(cell, loop_fn, parallel_iterations=None, swap_memory=False, scope=None):\n    \"\"\"\n    raw_rnn adapted from the original tensorflow implementation\n    (https://github.com/tensorflow/tensorflow/blob/r1.4/tensorflow/python/ops/rnn.py)\n    to emit arbitrarily nested states for each time step (concatenated along the time axis)\n    in addition to the outputs at each timestep and the final state\n    returns (\n        states for all timesteps,\n        outputs for all timesteps,\n        final cell state,",
+        "detail": "handwriting_synthesis.rnn.operations",
+        "documentation": {}
+    },
+    {
+        "label": "rnn_teacher_force",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.rnn.operations",
+        "description": "handwriting_synthesis.rnn.operations",
+        "peekOfCode": "def rnn_teacher_force(inputs, cell, sequence_length, initial_state, scope='dynamic-rnn-teacher-force'):\n    \"\"\"\n    Implementation of an rnn with teacher forcing inputs provided.\n    Used in the same way as tf.dynamic_rnn.\n    \"\"\"\n    inputs = array_ops.transpose(inputs, (1, 0, 2))\n    inputs_ta = tensor_array_ops.TensorArray(dtype=dtypes.float32, size=array_ops.shape(inputs)[0])\n    inputs_ta = inputs_ta.unstack(inputs)\n    def loop_fn(time, cell_output, cell_state, loop_state):\n        emit_output = cell_output",
+        "detail": "handwriting_synthesis.rnn.operations",
+        "documentation": {}
+    },
+    {
+        "label": "rnn_free_run",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.rnn.operations",
+        "description": "handwriting_synthesis.rnn.operations",
+        "peekOfCode": "def rnn_free_run(cell, initial_state, sequence_length, initial_input=None, scope='dynamic-rnn-free-run'):\n    \"\"\"\n    Implementation of an rnn which feeds its feeds its predictions back to itself at the next timestep.\n    cell must implement two methods:\n        cell.output_function(state) which takes in the state at timestep t and returns\n        the cell input at timestep t+1.\n        cell.termination_condition(state) which returns a boolean tensor of shape\n        [batch_size] denoting which sequences no longer need to be sampled.\n    \"\"\"\n    with vs.variable_scope(scope, reuse=True):",
+        "detail": "handwriting_synthesis.rnn.operations",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "kind": 6,
+        "importPath": "handwriting_synthesis.tf.BaseModel",
+        "description": "handwriting_synthesis.tf.BaseModel",
+        "peekOfCode": "class BaseModel(object):\n    \"\"\"Interface containing some boilerplate code for training tensorflow models.\n    Subclassing models must implement self.calculate_loss(), which returns a tensor for the batch loss.\n    Code for the training loop, parameter updates, checkpointing, and inference are implemented here and\n    subclasses are mainly responsible for building the computational graph beginning with the placeholders\n    and ending with the loss tensor.\n    Args:\n        reader: Class with attributes train_batch_generator, val_batch_generator, and test_batch_generator\n            that yield dictionaries mapping tf.placeholder names (as strings) to batch data (numpy arrays).\n            (handwriting_synthesis.training.DataReader)",
+        "detail": "handwriting_synthesis.tf.BaseModel",
+        "documentation": {}
+    },
+    {
+        "label": "dense_layer",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.tf.utils",
+        "description": "handwriting_synthesis.tf.utils",
+        "peekOfCode": "def dense_layer(inputs, output_units, bias=True, activation=None, batch_norm=None,\n                dropout=None, scope='dense-layer', reuse=False):\n    \"\"\"\n    Applies a dense layer to a 2D tensor of shape [batch_size, input_units]\n    to produce a tensor of shape [batch_size, output_units].\n    Args:\n        inputs: Tensor of shape [batch size, input_units].\n        output_units: Number of output units.\n        activation: activation function.\n        dropout: dropout keep prob.",
+        "detail": "handwriting_synthesis.tf.utils",
+        "documentation": {}
+    },
+    {
+        "label": "time_distributed_dense_layer",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.tf.utils",
+        "description": "handwriting_synthesis.tf.utils",
+        "peekOfCode": "def time_distributed_dense_layer(\n        inputs, output_units, bias=True, activation=None, batch_norm=None,\n        dropout=None, scope='time-distributed-dense-layer', reuse=False):\n    \"\"\"\n    Applies a shared dense layer to each timestep of a tensor of shape\n    [batch_size, max_seq_len, input_units] to produce a tensor of shape\n    [batch_size, max_seq_len, output_units].\n    Args:\n        inputs: Tensor of shape [batch size, max sequence length, ...].\n        output_units: Number of output units.",
+        "detail": "handwriting_synthesis.tf.utils",
+        "documentation": {}
+    },
+    {
+        "label": "shape",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.tf.utils",
+        "description": "handwriting_synthesis.tf.utils",
+        "peekOfCode": "def shape(tensor, dim=None):\n    \"\"\"Get tensor shape/dimension as list/int\"\"\"\n    if dim is None:\n        return tensor.shape.as_list()\n    else:\n        return tensor.shape.as_list()[dim]\ndef rank(tensor):\n    \"\"\"Get tensor rank as python list\"\"\"\n    return len(tensor.shape.as_list())",
+        "detail": "handwriting_synthesis.tf.utils",
+        "documentation": {}
+    },
+    {
+        "label": "rank",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.tf.utils",
+        "description": "handwriting_synthesis.tf.utils",
+        "peekOfCode": "def rank(tensor):\n    \"\"\"Get tensor rank as python list\"\"\"\n    return len(tensor.shape.as_list())",
+        "detail": "handwriting_synthesis.tf.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_stroke_sequence",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.training.preparation.operations",
+        "description": "handwriting_synthesis.training.preparation.operations",
+        "peekOfCode": "def get_stroke_sequence(filename):\n    tree = ElementTree.parse(filename).getroot()\n    strokes = [i for i in tree if i.tag == 'StrokeSet'][0]\n    coords = []\n    for stroke in strokes:\n        for i, point in enumerate(stroke):\n            coords.append([\n                int(point.attrib['x']),\n                -1 * int(point.attrib['y']),\n                int(i == len(stroke) - 1)",
+        "detail": "handwriting_synthesis.training.preparation.operations",
+        "documentation": {}
+    },
+    {
+        "label": "get_ascii_sequences",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.training.preparation.operations",
+        "description": "handwriting_synthesis.training.preparation.operations",
+        "peekOfCode": "def get_ascii_sequences(filename):\n    sequences = open(filename, 'r').read()\n    sequences = sequences.replace(r'%%%%%%%%%%%', '\\n')\n    sequences = [i.strip() for i in sequences.split('\\n')]\n    lines = sequences[sequences.index('CSR:') + 2:]\n    lines = [line.strip() for line in lines if line.strip()]\n    lines = [drawing.encode_ascii(line)[:drawing.MAX_CHAR_LEN] for line in lines]\n    return lines\ndef collect_data():\n    fnames = []",
+        "detail": "handwriting_synthesis.training.preparation.operations",
+        "documentation": {}
+    },
+    {
+        "label": "collect_data",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.training.preparation.operations",
+        "description": "handwriting_synthesis.training.preparation.operations",
+        "peekOfCode": "def collect_data():\n    fnames = []\n    for dirpath, dirnames, filenames in os.walk(ascii_data_path):\n        if dirnames:\n            continue\n        for filename in filenames:\n            if filename.startswith('.'):\n                continue\n            fnames.append(os.path.join(dirpath, filename))\n    # low quality samples (selected by collecting samples to",
+        "detail": "handwriting_synthesis.training.preparation.operations",
+        "documentation": {}
+    },
+    {
+        "label": "prepare",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.training.preparation.prepare",
+        "description": "handwriting_synthesis.training.preparation.prepare",
+        "peekOfCode": "def prepare():\n    print('traversing data directory...')\n    stroke_fnames, transcriptions, writer_ids = collect_data()\n    print('dumping to numpy arrays...')\n    x = np.zeros([len(stroke_fnames), drawing.MAX_STROKE_LEN, 3], dtype=np.float32)\n    x_len = np.zeros([len(stroke_fnames)], dtype=np.int16)\n    c = np.zeros([len(stroke_fnames), drawing.MAX_CHAR_LEN], dtype=np.int8)\n    c_len = np.zeros([len(stroke_fnames)], dtype=np.int8)\n    w_id = np.zeros([len(stroke_fnames)], dtype=np.int16)\n    valid_mask = np.zeros([len(stroke_fnames)], dtype=np.bool)",
+        "detail": "handwriting_synthesis.training.preparation.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "DataReader",
+        "kind": 6,
+        "importPath": "handwriting_synthesis.training.DataReader",
+        "description": "handwriting_synthesis.training.DataReader",
+        "peekOfCode": "class DataReader(object):\n    def __init__(self, data_dir):\n        data_cols = ['x', 'x_len', 'c', 'c_len']\n        data = [np.load(os.path.join(data_dir, '{}.npy'.format(i))) for i in data_cols]\n        self.test_df = DataFrame(columns=data_cols, data=data)\n        self.train_df, self.val_df = self.test_df.train_test_split(train_size=0.95, random_state=2018)\n        print('train size', len(self.train_df))\n        print('val size', len(self.val_df))\n        print('test size', len(self.test_df))\n    def train_batch_generator(self, batch_size):",
+        "detail": "handwriting_synthesis.training.DataReader",
+        "documentation": {}
+    },
+    {
+        "label": "batch_generator",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.training.batch_generator",
+        "description": "handwriting_synthesis.training.batch_generator",
+        "peekOfCode": "def batch_generator(batch_size, df, shuffle=True, num_epochs=10000, mode='train'):\n    gen = df.batch_generator(\n        batch_size=batch_size,\n        shuffle=shuffle,\n        num_epochs=num_epochs,\n        allow_smaller_final_batch=(mode == 'test')\n    )\n    for batch in gen:\n        batch['x_len'] = batch['x_len'] - 1\n        max_x_len = np.max(batch['x_len'])",
+        "detail": "handwriting_synthesis.training.batch_generator",
+        "documentation": {}
+    },
+    {
+        "label": "train",
+        "kind": 2,
+        "importPath": "handwriting_synthesis.training.train",
+        "description": "handwriting_synthesis.training.train",
+        "peekOfCode": "def train():\n    dr = DataReader(data_dir=processed_data_path)\n    nn = RNN(\n        reader=dr,\n        log_dir='logs',\n        checkpoint_dir=checkpoint_path,\n        prediction_dir=prediction_path,\n        learning_rates=[.0001, .00005, .00002],\n        batch_sizes=[32, 64, 64],\n        patiences=[1500, 1000, 500],",
+        "detail": "handwriting_synthesis.training.train",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_PATH",
+        "kind": 5,
+        "importPath": "handwriting_synthesis.config",
+        "description": "handwriting_synthesis.config",
+        "peekOfCode": "BASE_PATH = \"model\"\nBASE_DATA_PATH = \"data\"\ndata_path: str = os.path.join(BASE_PATH, BASE_DATA_PATH)\nprocessed_data_path: str = os.path.join(data_path, \"processed\")\nraw_data_path: str = os.path.join(data_path, \"raw\")\nascii_data_path: str = os.path.join(raw_data_path, \"ascii\")\ncheckpoint_path: str = os.path.join(BASE_PATH, \"checkpoint\")\nprediction_path: str = os.path.join(BASE_PATH, \"prediction\")\nstyle_path: str = os.path.join(BASE_PATH, \"style\")",
+        "detail": "handwriting_synthesis.config",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DATA_PATH",
+        "kind": 5,
+        "importPath": "handwriting_synthesis.config",
+        "description": "handwriting_synthesis.config",
+        "peekOfCode": "BASE_DATA_PATH = \"data\"\ndata_path: str = os.path.join(BASE_PATH, BASE_DATA_PATH)\nprocessed_data_path: str = os.path.join(data_path, \"processed\")\nraw_data_path: str = os.path.join(data_path, \"raw\")\nascii_data_path: str = os.path.join(raw_data_path, \"ascii\")\ncheckpoint_path: str = os.path.join(BASE_PATH, \"checkpoint\")\nprediction_path: str = os.path.join(BASE_PATH, \"prediction\")\nstyle_path: str = os.path.join(BASE_PATH, \"style\")",
+        "detail": "handwriting_synthesis.config",
+        "documentation": {}
+    },
+    {
+        "label": "all_star",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "all_star = \"\"\"Somebody once told me the world is gonna roll me\nI ain't the sharpest tool in the shed\nShe was looking kind of dumb with her finger and her thumb\nIn the shape of an \"L\" on her forehead\"\"\"\ndowntown = \"\"\"Making my way downtown\nWalking fast\nFaces pass\nAnd I'm home-bound\"\"\"\ngive_up = \"\"\"Never gonna give you up\nNever gonna let you down",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "downtown",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "downtown = \"\"\"Making my way downtown\nWalking fast\nFaces pass\nAnd I'm home-bound\"\"\"\ngive_up = \"\"\"Never gonna give you up\nNever gonna let you down\nNever gonna run around and desert you\nNever gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie and hurt you\"\"\"",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "give_up",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "give_up = \"\"\"Never gonna give you up\nNever gonna let you down\nNever gonna run around and desert you\nNever gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie and hurt you\"\"\"\nlines = [\n    \"Hi there!!!\",\n    \"I'm winding down, I'm growing tired\",\n    \"Seconds drift into the night\",",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "lines",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "lines = [\n    \"Hi there!!!\",\n    \"I'm winding down, I'm growing tired\",\n    \"Seconds drift into the night\",\n    \"The clock just ticks till my time expires\",\n]\nif __name__ == '__main__':\n    hand = Hand()\n    # usage demo\n    biases = [.75 for i in lines]",
+        "detail": "main",
+        "documentation": {}
+    }
+]
